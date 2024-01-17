@@ -2,7 +2,10 @@
 
 ### Building and running your application
 
-Start application by running:
-`docker compose up `.
+- Start application by running:
 
-Application will be available at http://0.0.0.0:8000.
+  ```
+  docker compose up
+  ```
+
+- Application will be available at http://0.0.0.0:8000.
